@@ -1,0 +1,39 @@
+name: Bug report
+description: 回報可重現的 LISP 行為或文件問題
+title: "[Bug] "
+body:
+  - type: input
+    id: command
+    attributes:
+      label: 指令與 LISP 檔名
+      placeholder: LOFTLINES / LOFTLINES.lsp
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: AutoCAD 完整版本、組建、介面語言及 Windows 版本
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: 圖面與設定
+      description: 模型或紙空間、單位、UCS、LISPSYS、圖塊／Tag、其他已載入監聽程式。
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重現步驟
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 預期、實際結果與完整錯誤文字
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: 去識別的範例、截圖或錄影
+      description: 請勿包含客戶名稱、帳號、私人路徑或未公開圖面。

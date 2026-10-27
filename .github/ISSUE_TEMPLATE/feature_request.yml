@@ -1,0 +1,21 @@
+name: Feature request
+description: 提出具體製圖情境或文件改善
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 哪個製圖步驟需要改善
+      description: 附目前工具、操作步驟與造成的重複工作。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望的輸入、操作與輸出
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: 版本、圖塊、單位或相容性條件

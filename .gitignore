@@ -1,0 +1,16 @@
+# AutoCAD working files
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+*.ac$
+*.tmp
+# IDE and local caches
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+bin/
+obj/
+Thumbs.db
+.DS_Store

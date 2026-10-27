@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title">
+<title id="title">LOFTLINES 兩曲線間插值</title><rect width="1200" height="290" fill="#102b34"/>
+<path d="M910 50h216v170H910zM985 50v170M985 128h141M1072 128v92" fill="none" stroke="#adc9c1" stroke-width="2"/>
+<path d="M896 34h244M910 22v24M1126 22v24M1148 50v170M1138 50h20M1138 220h20" fill="none" stroke="#d6b389"/>
+<text x="48" y="57" fill="#d6b389" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">CadLISP / AUTOLISP</text>
+<text x="45" y="132" fill="#f4f1e8" font-family="Consolas,monospace" font-size="48" font-weight="700">LOFTLINES</text>
+<text x="48" y="189" fill="#c9d9d4" font-family="Microsoft JhengHei,sans-serif" font-size="29">兩曲線間插值</text>
+<text x="48" y="248" fill="#d6b389" font-family="Arial,sans-serif" font-size="15">WINDOWS AUTOCAD / MIT / SOURCE SNAPSHOT</text></svg>

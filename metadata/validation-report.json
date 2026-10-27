@@ -1,0 +1,22 @@
+{
+  "snapshot_date": "2026-10-27",
+  "status": "passed",
+  "scope": "Static source and documentation checks only",
+  "lisp_files": 1,
+  "public_commands": 1,
+  "manuals": 1,
+  "demo_gifs": 0,
+  "local_links_checked": 18,
+  "source_hashes_match": true,
+  "autocad_runtime_tests": "not performed",
+  "known_source_issues": "See docs/KNOWN_ISSUES.md; static success does not resolve those issues",
+  "structure": [
+    {
+      "path": "lsp/LOFTLINES.lsp",
+      "parenthesis_balance": 0,
+      "minimum_depth": 0,
+      "unterminated_string": false
+    }
+  ],
+  "errors": []
+}

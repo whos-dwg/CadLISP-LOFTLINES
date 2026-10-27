@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/LOFTLINES.lsp",
+      "bytes": 13057,
+      "sha256": "f642be120f1f081d9d4aeb99ea94e42ff26c2b3c64affe607cfe2d3ebd3b2827",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "LOFTLINES",
+          "line": 445
+        }
+      ]
+    }
+  ]
+}
